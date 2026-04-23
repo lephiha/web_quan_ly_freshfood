@@ -10,10 +10,10 @@ import Card from '@mui/material/Card';
 
 // ----------------------------------------------------------------------
 const dataContact = {
-  name: 'Hoang Anh',
-  phoneNumber: '0123456789',
-  email: 'dohoanganh444@gmail.com',
-  address: '150 Chiến Thắng, Thanh Trì, Hà Nội',
+  name: 'Lê Phi Hà',
+  phoneNumber: '0392405600',
+  email: 'phihasky@gmail.com',
+  address: '141 Chiến Thắng, Thanh Trì, Hà Nội',
 };
 
 export function ContactView() {
